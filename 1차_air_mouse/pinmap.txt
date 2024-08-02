@@ -1,0 +1,17 @@
+* main board
+esp32wroom32
+
+1. mpu 
+
+vcc - 3.3
+gnd - gnd
+scl - d22
+sda -d21
+
+2. switch
+
+com - d2
+no - 
+nc - gnd
+
+3. tp4056 + ams1117 - 3.7 to 3.0~3.3
